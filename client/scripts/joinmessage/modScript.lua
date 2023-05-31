@@ -1,0 +1,2 @@
+load('joinmessage')
+registerCoreModule('joinmessage')
